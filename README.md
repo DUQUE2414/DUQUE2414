@@ -9,9 +9,9 @@ Técnico en Programación de Software y actualmente en formación como Tecnólog
 ### 💻 Habilidades Técnicas
 
 * **Lenguajes & Tecnologías:** JavaScript, Python, SQL, HTML5, CSS3.
-* **Frameworks & Librerías:** React, Node.js.
-* **Herramientas & Control de Versiones:** Git, GitHub.
-* **Fundamentos:** Lógica de programación, desarrollo de interfaces web y bases de datos.
+* **Frameworks & Librerías:** React, Node.js, Express.js.
+* **Herramientas & Control de Versiones:** Git, GitHub, Vite, JSON Server.
+* **Fundamentos:** Lógica de programación, desarrollo de interfaces web, consumo de APIs REST y bases de datos.
 
 ### 🤝 Habilidades Blandas
 
@@ -23,15 +23,15 @@ Técnico en Programación de Software y actualmente en formación como Tecnólog
 
 ### 🚀 Proyectos Académicos Destacados
 
-#### **ALASKCAN** – Plataforma Web para Mascotas y Veterinarias
-Plataforma orientada al sector veterinario y usuarios con mascotas, desarrollada con funcionalidades de comercio electrónico y componentes interactivos.
+#### **Agenda ADSO** – Aplicación Web de Gestión de Contactos
+Sistema interactivo de gestión de contactos desarrollado en React y conectado a una API local para simular la persistencia de datos en un entorno real.
 
-* **Público objetivo:** Veterinarias y propietarios de mascotas (caninos y felinos).
+* **Tecnologías:** React, Vite, JavaScript, Tailwind CSS, JSON Server.
 * **Funcionalidades principales:**
-  * Catálogo de productos alimenticios, médicos y juguetes.
-  * Guías educativas de entrenamiento animal.
-  * Localización de veterinarias cercanas.
-  * Secciones informativas y diseño dinámico interactivo.
+  * Operaciones CRUD completas (Crear, Leer, Actualizar y Eliminar contactos).
+  * Formulario adaptativo con validaciones de campos y manejo de errores en tiempo real.
+  * Búsqueda dinámica por nombre, correo o etiqueta, y ordenamiento alfabético.
+  * Optimización de experiencia de usuario (UX) con estados de carga y confirmación de acciones.
 
 ---
 
